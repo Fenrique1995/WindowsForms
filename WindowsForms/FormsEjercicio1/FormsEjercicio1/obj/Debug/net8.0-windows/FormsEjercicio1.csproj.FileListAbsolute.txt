@@ -1,0 +1,17 @@
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\ClasesConPatricio\Practicas\WindowsForms\FormsEjercicio1\FormsEjercicio1\bin\Debug\net8.0-windows\FormsEjercicio1.exe
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\ClasesConPatricio\Practicas\WindowsForms\FormsEjercicio1\FormsEjercicio1\bin\Debug\net8.0-windows\FormsEjercicio1.deps.json
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\ClasesConPatricio\Practicas\WindowsForms\FormsEjercicio1\FormsEjercicio1\bin\Debug\net8.0-windows\FormsEjercicio1.runtimeconfig.json
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\ClasesConPatricio\Practicas\WindowsForms\FormsEjercicio1\FormsEjercicio1\bin\Debug\net8.0-windows\FormsEjercicio1.dll
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\ClasesConPatricio\Practicas\WindowsForms\FormsEjercicio1\FormsEjercicio1\bin\Debug\net8.0-windows\FormsEjercicio1.pdb
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\ClasesConPatricio\Practicas\WindowsForms\FormsEjercicio1\FormsEjercicio1\obj\Debug\net8.0-windows\FormsEjercicio1.Form1.resources
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\ClasesConPatricio\Practicas\WindowsForms\FormsEjercicio1\FormsEjercicio1\obj\Debug\net8.0-windows\FormsEjercicio1.Form2.resources
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\ClasesConPatricio\Practicas\WindowsForms\FormsEjercicio1\FormsEjercicio1\obj\Debug\net8.0-windows\FormsEjercicio1.csproj.GenerateResource.cache
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\ClasesConPatricio\Practicas\WindowsForms\FormsEjercicio1\FormsEjercicio1\obj\Debug\net8.0-windows\FormsEjercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\ClasesConPatricio\Practicas\WindowsForms\FormsEjercicio1\FormsEjercicio1\obj\Debug\net8.0-windows\FormsEjercicio1.AssemblyInfoInputs.cache
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\ClasesConPatricio\Practicas\WindowsForms\FormsEjercicio1\FormsEjercicio1\obj\Debug\net8.0-windows\FormsEjercicio1.AssemblyInfo.cs
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\ClasesConPatricio\Practicas\WindowsForms\FormsEjercicio1\FormsEjercicio1\obj\Debug\net8.0-windows\FormsEjercicio1.csproj.CoreCompileInputs.cache
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\ClasesConPatricio\Practicas\WindowsForms\FormsEjercicio1\FormsEjercicio1\obj\Debug\net8.0-windows\FormsEjercicio1.dll
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\ClasesConPatricio\Practicas\WindowsForms\FormsEjercicio1\FormsEjercicio1\obj\Debug\net8.0-windows\refint\FormsEjercicio1.dll
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\ClasesConPatricio\Practicas\WindowsForms\FormsEjercicio1\FormsEjercicio1\obj\Debug\net8.0-windows\FormsEjercicio1.pdb
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\ClasesConPatricio\Practicas\WindowsForms\FormsEjercicio1\FormsEjercicio1\obj\Debug\net8.0-windows\FormsEjercicio1.genruntimeconfig.cache
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\ClasesConPatricio\Practicas\WindowsForms\FormsEjercicio1\FormsEjercicio1\obj\Debug\net8.0-windows\ref\FormsEjercicio1.dll
