@@ -53,11 +53,14 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(536, 291);
+            ClientSize = new Size(536, 269);
             Controls.Add(labelMensaje);
             Controls.Add(labelTitulo);
+            Font = new Font("Segoe UI", 9F);
+            FormBorderStyle = FormBorderStyle.FixedSingle;
             Name = "Form2";
-            Text = "Form2";
+            Text = "Saludo";
+            Load += Form2_Load;
             ResumeLayout(false);
             PerformLayout();
         }

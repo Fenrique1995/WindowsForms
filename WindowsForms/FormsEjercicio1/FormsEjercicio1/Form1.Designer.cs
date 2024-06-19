@@ -84,14 +84,15 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(533, 292);
+            ClientSize = new Size(533, 259);
             Controls.Add(Saludar);
             Controls.Add(textNombre);
             Controls.Add(textApellido);
             Controls.Add(txtApellido);
             Controls.Add(txtNombre);
+            FormBorderStyle = FormBorderStyle.FixedSingle;
             Name = "Form1";
-            Text = "Form1";
+            Text = "¡Hola, Windows Forms!";
             ResumeLayout(false);
             PerformLayout();
         }

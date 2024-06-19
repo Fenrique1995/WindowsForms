@@ -17,9 +17,13 @@ namespace FormsEjercicio1
             InitializeComponent();
             labelTitulo.Text = titulo;
             labelMensaje.Text = mensaje;
-            labelTitulo.Font = new Font(labelTitulo.Font, FontStyle.Bold | FontStyle.Italic);
-            labelTitulo.Font = new Font(labelTitulo.Font.FontFamily, 14);
+            labelTitulo.Font = new Font(labelTitulo.Font.FontFamily, 14, FontStyle.Bold | FontStyle.Italic);
             labelMensaje.Font = new Font(labelMensaje.Font.FontFamily, 12);
+        }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
